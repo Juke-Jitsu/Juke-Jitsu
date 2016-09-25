@@ -1,0 +1,17 @@
+{
+  "name": "Juke-Jitsu",
+  "version": "0.0.1",
+  "description": "The Best thing to happen to 2016. Ever.",
+  "author": "Kaleb Pace & Eli Davis",
+  "main": "main",
+  "scripts": {
+    "start": "node start"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-git": "^1.11.3",
+    "gulp-install": "^0.6.0",
+    "gulp-shell": "^0.5.2",
+    "run-sequence": "^1.2.2"
+  }
+}

@@ -1,0 +1,9 @@
+# Project folders
+Server
+Protocols
+Client
+Sensei
+node_modules
+
+# temp and swap files
+*.swp
